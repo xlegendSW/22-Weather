@@ -55,7 +55,7 @@ form.addEventListener("submit", async (e) =>{
         showError(data.error.massage);
     }   else {
         clearCard();
-        console.log (data);
+        console.log (data)
 
         
     }
